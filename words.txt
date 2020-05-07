@@ -209,3 +209,10 @@ pastry
 plaza
 cite
 expertise
+commerce
+amenity
+on site
+complimentary
+reservation
+extension
+presentment
