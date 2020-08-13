@@ -404,3 +404,7 @@ revitalize
 provision
 licensing
 itinerary
+keynote
+advertising
+revenue
+offset 
