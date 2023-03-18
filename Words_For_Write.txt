@@ -325,3 +325,5 @@ emotional
 disaster
 divorced
 barely 
+sensitive
+unfamiliar 
