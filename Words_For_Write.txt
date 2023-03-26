@@ -376,3 +376,12 @@ grammar
 satisfied 
 satisfy
 requirement
+impossible
+economically 
+global 
+efficiently
+hungry
+attempts
+simply
+deduct 
+accidentally
