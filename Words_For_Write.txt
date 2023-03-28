@@ -385,3 +385,6 @@ attempts
 simply
 deduct 
 accidentally
+recently
+actually 
+despite
