@@ -378,7 +378,8 @@ satisfy
 requirement
 impossible
 economically 
-global 
+global
+globe
 efficiently
 hungry
 attempts
