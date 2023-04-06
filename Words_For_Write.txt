@@ -433,3 +433,7 @@ valuable
 jewelry 
 necklaces
 fossils
+attended
+acoustic echo cancellation
+embarrass
+aware
