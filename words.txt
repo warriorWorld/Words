@@ -593,3 +593,10 @@ recesses
 sustenance 
 sympathetic 
 confer 
+wanes
+gravel
+abrasion
+Alluvial
+inertia
+braided
+mound
