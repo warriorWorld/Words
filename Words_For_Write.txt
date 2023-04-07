@@ -437,3 +437,5 @@ attended
 acoustic echo cancellation
 embarrass
 aware
+encountering
+solutions
