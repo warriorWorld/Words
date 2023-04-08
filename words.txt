@@ -1,294 +1,117 @@
 carpet
 summit
-second quarter figures
-postpone
 shuttle
-port
-relocating
-make use
-transportation
-inventory
-receipts
-reimbursed
-justify
 promptly
 upbeat
 appeal
 expenditure
-operate
-applicant
 professorial
-reference
-gourmet
 inquiry
 enclose
-corporation
-sincerely
-disclose
-venerable
-venue
 canadian
 baritone
 polish
 contralto
-bill
-resign
-tenure
-domestic
 appliances
 oversaw
 faculty
 board members
 breach
-infrastructure
-evaluating
-obligated
-firm
 insofar as
-specimen
 start up
-domestic
 cater to
-sub contractor
 mortgage
 verifiable
 take up
-production process
 streamline
-net
 portfolio
-shake up
-stockbroking
 subject to
-westham
-lakewood
 municipality
 staffed
-fill out a form
 brochure
 personnel
 affable
 registrants
 seminar
 as though
-consult
-well over
 applaud
 lobby
 insulin
 diabetes
 master's degree
 deficit
-hawk
-deficit hawk
 debt market
-elaborated
-tolled
 expo
 showcase
 admission
 vendor
-unsettled
-galleries
 scenic
 courtesy
-anniston
 saunas
-domestically
 proceeding
-concert
 turned up
 turned down
 turned on
 turned in
 abbreviated
 accommodating
-impresses
-newly issued
-with regard to
 as of
-due to
-in spite of
-in case
 versatile
 elastic
 cordially
-chip
-chip production
-charged
-revise
 pleaded
-insider trading
-prosecutor
-nondisclosure
-shareholding
 pertained
-assessment
-affidavit
-affiliated
-consortium
-facilities
 waive
 consent
 gratuitously
 therein
 prior
-negotiation
 superseded
-fair
-possess
-junior college degree
-interviewer
-be charged with
-a total of
-access to
 in accordance with
-intellectual property
-administrative
-accommodation
-executive suite
-booking
-assign
-manual
 borough
-gazette
-ensemble
 prestigious
-photocopier
-invoice
-wire transfer
-check drawn
-consignment
-quoted
-feature
-headline
-submission
-sponsor
 solicit
-certificate
-entitle
-refund
-warranty
-herald
-editorial
-columns
-conference
-fare
-airfare
-privilege
-ballroom
-regency
-postmark
 expedite
-refundable
-affixing
-pertain
-session
-coconut
-argentina
 frenzy
 reminiscent
-waged
 cinnamon
 revenue
-decline
-avenue
 timepiece
 avid
-state of the art
-shipment
-washer
-balance
-specify
 garland
-lei
-cookery
-tailor
 look over
 pastry
-plaza
-cite
-expertise
 commerce
 amenity
 on site
 complimentary
-reservation
-extension
 presentment
-ample
-trustees
-clientele
 motorist
-clerk
 tow
 custodia
-comprehensive
-topped
-margin
-division
 stricken
-lossmaking
-deem
-pay off
 mainframe
-cartridge
-obsolete
 distress
-rebate
-courier
-stumbled
 proposition
-nonfiction
-continuation
 acclaim
-mailing list
 gala
-committee
-finalist
-board
 renovation
 overview
 commitment
-commemorative
 plaque
-workshop
 parchment
 lamp
-shade
-metro trucking
-pleat
-beige
-socket
-brass
-knob
-press
-forthcoming
 applicable
 kickoff
 promotional
-jacket
 withhold
-cook off
-remainder
-get fit
-quartet
-boardwalk
-boutique
 incentive
-lease
 apparel
 overlook
-payroll
 acme
-symposium
-counterpart
-moroccan
 tackle
 lounge
-glassware
 undergarment
-respondent
 floral
 petunia
 daffodil
@@ -299,197 +122,58 @@ outlet
 luncheon
 picnic
 softball
-checkout
 circulation
-out of state
 drape
 linen
 rug
 slipper
 bulk
-distribute
 aspire
-mentor
-fund raising
 spectator
 prominently
-pharmaceutical
-spot
-intake
-expression
-debit
-entrepreneur
-furnishing
-Co
-fuse
-fixture
-goodwill
-voucher
-inc
-plaza
 poring
 adjudge
-juror
 steamroller
 grueling
-in bulk
-Toronto
-pending
-cubicle
 prompt
-fantastic
 amenity
-charmingly
-archway
-plumbing
-furnace
-attic
-stove
-realtor
-flyer
-refurbish
-checklist
-exceptional
-hospitality
-complimentary
-recipient
-invitation
-ridgeway
-villa
-ridge
-moderate
-slope
-trek
 intermittent
-palisades
-trailhead
-ranger
-hallow
-pavilion
 affectionately
-upholstery
 meadow
-peach
 maple
 chrome
-throw pillows
 cornflower
-slip
 lodging
 qualifies
 commence
-powerhouse
-witty
-script
-fast pace
-confer
-mentor
-tutoring
-thrill
 hefty
 sapphire
-whopping
-deluxe
-buffet
-promotional
-foil
-revise
-compiling 
-thematic 
 district
 underutilized
-patented
 synthetic
-revitalize
 provision
-licensing
-itinerary
 keynote
-advertising
-revenue
-offset 
-coordinator
-quiz
-vet
-chancellor 
-charitable
-upkeep 
-refurbish 
-storefront
-programmes
-lanes
-courtesy
 attentively
-bode
-medication
-merchandise
 mart 
-revolutionize
-scam
-interns 
-juggling 
 complement 
 liberal 
 preliminary
-ensue
 whopping 
 tuition 
 superfluous
 sate 
-portuguese 
-shortlist
-lasagna
-taco 
-aerobics
-abdominal 
-toning
 conjunction
 refreshment 
 stellar
-candid 
-toiletries
 keynote 
 anecdote
-shipyard 
-filed
-clearance 
-inbound 
 redeem
-mark down
 presentation
-cassette 
-voucher
-roller coasters
-resort 
-grumpy 
-montage 
-auditorium
-accomplishment
-memo
 rapt 
-proprietor
 eatery
-guest appearance
-recap
-cuisine 
-versatile 
-incorporating 
-starring
-upholstery 
-foam
-firmer 
-costlier 
-padding
-polyurethane 
-seamstress
 lodging
 herald 
 equity
-multilateral
-cinema 
-outline
-Utilitarian
-Utilitarianism
 terraces
 infringing
 ceremonial
@@ -600,3 +284,8 @@ Alluvial
 inertia
 braided
 mound
+mortars 
+pestles 
+basalt
+attest 
+vessels 
