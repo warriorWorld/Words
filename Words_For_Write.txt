@@ -448,3 +448,7 @@ chemicals
 contaminate 
 calculate 
 dollars
+convenience
+conflict
+perfectly
+patience
