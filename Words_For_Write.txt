@@ -452,3 +452,5 @@ convenience
 conflict
 perfectly
 patience
+tolerate
+atmospheric
