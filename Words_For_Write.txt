@@ -458,3 +458,7 @@ severe
 cultivate
 brilliant 
 preserve 
+precious
+rescue
+practical
+destroy 
