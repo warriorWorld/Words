@@ -462,3 +462,9 @@ precious
 rescue
 practical
 destroy 
+drowned
+monitor
+comparison
+precipitation
+drought
+succeeded
