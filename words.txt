@@ -442,3 +442,10 @@ cascade
 obliterated 
 redundancy 
 refuted 
+tundra
+peopling 
+caribou
+elk
+antelope
+sedges
+steppe
