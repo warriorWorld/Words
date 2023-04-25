@@ -494,3 +494,8 @@ purposes
 worn out
 definitely 
 weigh 
+energy
+maximize 
+minimize 
+nutritional 
+scenery 
