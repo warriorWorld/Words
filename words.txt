@@ -449,3 +449,9 @@ elk
 antelope
 sedges
 steppe
+Birch 
+hazel 
+deciduous 
+gustier
+vagary
+whisked 
