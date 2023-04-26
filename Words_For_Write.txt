@@ -502,3 +502,8 @@ scenery
 sophisticated 
 evaluate
 adults 
+typically 
+patrol 
+obviously 
+stopped 
+simultaneously
