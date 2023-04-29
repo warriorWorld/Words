@@ -476,3 +476,8 @@ arthropods
 pelvic 
 girdle
 pectoral 
+Obscura
+convex 
+tracery 
+recede 
+chandelier 
