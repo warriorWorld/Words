@@ -507,3 +507,6 @@ patrol
 obviously 
 stopped 
 simultaneously
+confronted .
+nonetheless
+responsibility 
