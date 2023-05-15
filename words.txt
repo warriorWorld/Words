@@ -551,3 +551,5 @@ prefigure
 hieroglyphics 
 calligrapher
 glyphs 
+customarily 
+fowl

@@ -526,3 +526,5 @@ south
 dropped 
 temperature 
 contribute
+absorb 
+carbon dioxide
