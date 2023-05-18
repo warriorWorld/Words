@@ -553,3 +553,5 @@ calligrapher
 glyphs 
 customarily 
 fowl
+stumps
+reduction 
