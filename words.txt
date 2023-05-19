@@ -565,3 +565,6 @@ mustard
 Lounge 
 conjecture
 culminate 
+ad hoc
+appraisal 
+mitigation 
