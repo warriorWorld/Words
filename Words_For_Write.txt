@@ -543,3 +543,6 @@ millions
 directly 
 portability 
 concern
+continuously
+secrete
+temperature 
