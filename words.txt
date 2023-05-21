@@ -589,3 +589,7 @@ postulate
 extrapolation 
 bivalved 
 inlet 
+Melanism
+melanic
+whitish 
+voraciously 
