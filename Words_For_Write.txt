@@ -548,3 +548,8 @@ secrete
 temperature 
 mountain
 edible 
+diversity
+happened
+survive
+aggressive
+compete
