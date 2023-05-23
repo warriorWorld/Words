@@ -553,3 +553,7 @@ happened
 survive
 aggressive
 compete
+germinate 
+hare
+habitat
+despite 
