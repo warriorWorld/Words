@@ -640,3 +640,7 @@ vascular
 fern
 ectothermic 
 iridium 
+prowess
+precinct 
+ostentatious 
+
