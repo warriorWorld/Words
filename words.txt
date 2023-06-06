@@ -697,3 +697,6 @@ albeit
 juxtaposition 
 plunge
 mantle plume
+Moose 
+lynx
+legible
