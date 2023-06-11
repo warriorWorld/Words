@@ -25,3 +25,4 @@ franchising
 headquarter
 electronic books 
 invented
+physical stores
