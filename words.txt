@@ -783,3 +783,5 @@ slab
 viscera 
 iridescent 
 heterogeneous 
+turnover 
+equilibrium
