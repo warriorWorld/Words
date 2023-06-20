@@ -815,3 +815,8 @@ apparatus
 hornbill 
 gibbon
 orangutan
+caravel 
+galley 
+astrolabe 
+Consulate 
+lane
