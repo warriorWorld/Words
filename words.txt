@@ -839,3 +839,5 @@ monetary
 circumvent
 prowl 
 Peripheral 
+gigantothermy
+floe 
