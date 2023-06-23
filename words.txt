@@ -841,3 +841,6 @@ prowl
 Peripheral 
 gigantothermy
 floe 
+granular 
+firn
+calving
