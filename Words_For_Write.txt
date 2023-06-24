@@ -589,3 +589,5 @@ vital
 illegal
 virus
 viruses 
+exposure
+routinely
