@@ -844,3 +844,10 @@ floe
 granular 
 firn
 calving
+cenote
+karst
+plaster
+catchment 
+dike
+outlook
+conflate
