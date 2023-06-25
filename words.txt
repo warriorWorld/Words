@@ -851,3 +851,9 @@ catchment
 dike
 outlook
 conflate
+entails
+gripe
+shunning
+ostracize 
+elicit 
+pathology
