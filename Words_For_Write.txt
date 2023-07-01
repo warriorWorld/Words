@@ -600,3 +600,6 @@ crowd
 vulnerable
 trivial 
 monitor 
+against
+purpose
+harsh
