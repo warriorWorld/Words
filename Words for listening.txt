@@ -26,3 +26,6 @@ panorama
 mass wasting
 solifluction
 reel
+insectivore
+bale
+supercritical
