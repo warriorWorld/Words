@@ -29,3 +29,5 @@ reel
 insectivore
 bale
 supercritical
+fall out
+excerpt
