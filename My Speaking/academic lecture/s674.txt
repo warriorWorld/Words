@@ -1,0 +1,3 @@
+The lecturer explains the paradox of technology by giving two examples.
+First, electronic devices usually need remote controls such as television and DVDs. And if you have a television and a DVD, and you connect them together, you'll need two controls. In order to control them with one control, you'll need universal control. But in order to use the universal control, you need to program it. But sometimes you'll forget which button is for which device. This actually makes things more complicated.
+Second, mobile phones nowadays have become smaller and smaller. But this also makes their buttons smaller and smaller. As a result, people often dial wrong numbers.
