@@ -612,3 +612,5 @@ thief
 colours
 physical
 hormone
+volcano
+occupation
