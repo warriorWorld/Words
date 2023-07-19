@@ -57,3 +57,5 @@ embellishment
 parlor 
 gaudy 
 trellis
+dean
+allusive
