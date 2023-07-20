@@ -614,3 +614,5 @@ physical
 hormone
 volcano
 occupation
+ancestor
+commemorate 

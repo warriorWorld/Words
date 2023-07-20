@@ -1117,3 +1117,12 @@ seismometer
 belch
 Empirical
 tremor
+tine
+tactile
+stowaway
+rule of thumb
+attenuation
+endemism
+ramrod-straight
+slab
+petroglyph
