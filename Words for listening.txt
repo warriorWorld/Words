@@ -64,3 +64,5 @@ plume
 pivotal 
 panoramic
 stalk
+accretion
+Sod
