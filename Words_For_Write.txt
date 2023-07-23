@@ -616,3 +616,4 @@ volcano
 occupation
 ancestor
 commemorate 
+minor
