@@ -66,3 +66,5 @@ panoramic
 stalk
 accretion
 Sod
+bunk
+crib
