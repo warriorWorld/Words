@@ -68,3 +68,5 @@ accretion
 Sod
 bunk
 crib
+syllabus
+bibliography
